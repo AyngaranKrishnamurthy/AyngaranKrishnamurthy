@@ -6,7 +6,7 @@
 - 📝 Have authored and published multiple scientific self-developed ideas in Springer and Elseiver.
 - 💞️ I’m looking forward to gain more hands-on experience from the industry to develop more ideas into reality.
 - 📫 Wanna reach out to me : ayngaranrk@gmail.com.
-- 🔗 Wanna know me more : https://tinyurl.com/the-excalius.
+- 🔗 Wanna know me more : www.ayngarankrishnamurthy.com
 - 🔖 My biggest flex: I'm just 24.
 
 <!---
