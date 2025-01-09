@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyngaranKrishnamurthy.
 - 🎓 Graduate Student at Old Dominion University
 - 🏢 Working as Graduate Administrative Assistant for Strategic Initiatives at Old Dominion University
-- 🐺 What am I: I'm an Entrepreneur, Developer, Public Speaker, and Mentor.
+- 🐼 What am I: an Entrepreneur, Developer, Public Speaker, and Mentor.
 - 💻 I code in Python, Java and GO.
 - ✒️ I like to code because it makes me feel "If I can think it, I can make it".
 - 📚 I love learning a lot. Being a newbie I want to explore more and more about coding and development.
